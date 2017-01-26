@@ -4,7 +4,7 @@
 
 'this is a test module'
 
-__author__ = 'Hang Zhang'
+__author__ = 'Miao Yang'
 
 import os
 
